@@ -15,6 +15,9 @@ It can:
 pip install -r requirements.txt
 insted of PyAudio just install sounddevice scipy
 
+pip install sounddevice soundfile SpeechRecognition pyttsx3 pywhatkit pyjokes
+
+
 ### 2. Run the program
 python main.py
 
