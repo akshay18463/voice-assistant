@@ -13,6 +13,7 @@ It can:
 ### 1. Install the required libraries
 # voice-assistant
 pip install -r requirements.txt
+insted of PyAudio just install sounddevice scipy
 
 ### 2. Run the program
 python main.py
